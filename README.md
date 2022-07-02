@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @GuizmoU
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ in ue4-5.
-- I know java and python
+- got experience with game dev
+- I do web dev
+- currently learning machine learning, deep learning,...
